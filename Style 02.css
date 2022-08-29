@@ -1,0 +1,14 @@
+#Abandono-escolar{width: 100%;
+}
+h1{color:  red;
+}
+
+p {text-align: justify;
+}
+
+b {border-width:3px; 
+	border-style: solid;
+	border-color: #0066CC;
+	padding: 10px; 
+	margin: 20px;
+}

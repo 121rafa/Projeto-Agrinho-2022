@@ -1,0 +1,22 @@
+h1 {color: blueviolet;
+}
+
+strong {color: red;
+}
+
+#Escola-01{width: 100%;
+}
+#Escola-02{width: 100%;
+}
+
+
+h1 {text-align: left;
+}
+
+
+b {border-width: 3px; 
+	border-style: solid;
+	border-color: #0066CC;
+	padding: 10px; 
+	margin: 50px;
+}

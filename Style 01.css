@@ -1,0 +1,11 @@
+#Escola-03{width: 100%;
+}
+b {border-width:3px; 
+	border-style: solid;
+	border-color: #0066CC;
+	padding: 10px; 
+	margin: 20px;
+}
+
+strong{color: red;
+}
